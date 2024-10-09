@@ -2,8 +2,8 @@ import React, { useEffect, useState } from 'react';
 import Navbar from '../components/Navbar';
 import axios from 'axios';
 
-const API_KEY = 'AIzaSyCmDk80gqWRre87YWEqiSZwbup4BASPAxI'; // Replace with your YouTube Data API key
-const PLAYLIST_ID = 'PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_'; // Replace with your YouTube playlist ID
+const API_KEY = '....'; // Replace with your YouTube Data API key
+const PLAYLIST_ID = '...'; // Replace with your YouTube playlist ID
 
 
 const YouTubePlaylist = () => {
